@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Findify-project/static/css/main.ec30ee13.css",
+    "main.js": "/Findify-project/static/js/main.f51f50bc.js",
+    "static/js/787.0c3f432a.chunk.js": "/Findify-project/static/js/787.0c3f432a.chunk.js",
+    "index.html": "/Findify-project/index.html",
+    "static/media/cancel.svg": "/Findify-project/static/media/cancel.e8181f72a5d576d34bdab3ebfc0d22ae.svg",
+    "static/media/line.svg": "/Findify-project/static/media/line.0cbd1698066dce98a6c79ec06dba0812.svg",
+    "static/media/separator.svg": "/Findify-project/static/media/separator.4aaeff73dd95d44987361f8f6716a0cf.svg",
+    "static/media/discountX.svg": "/Findify-project/static/media/discountX.d5e1166496ad22c115961fdc0c54a9a6.svg",
+    "static/media/discount.svg": "/Findify-project/static/media/discount.a720f1508dc82e48a49c5831160b0830.svg",
+    "static/media/more.svg": "/Findify-project/static/media/more.50c81fc5f809cf2ba3e3316a67ba09e8.svg",
+    "static/media/less.svg": "/Findify-project/static/media/less.94da8525b4b3aa2e22a3d06af20593e3.svg",
+    "static/media/circle.svg": "/Findify-project/static/media/circle.c8320d95a14b1d27f2fae431a2298851.svg",
+    "static/media/sticker.svg": "/Findify-project/static/media/sticker.adb8ebd389186a25edfb1af86dea7cfc.svg",
+    "static/media/stickerX.svg": "/Findify-project/static/media/stickerX.5300932cceec4a987583aae03f116345.svg",
+    "main.ec30ee13.css.map": "/Findify-project/static/css/main.ec30ee13.css.map",
+    "main.f51f50bc.js.map": "/Findify-project/static/js/main.f51f50bc.js.map",
+    "787.0c3f432a.chunk.js.map": "/Findify-project/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec30ee13.css",
+    "static/js/main.f51f50bc.js"
+  ]
+}
